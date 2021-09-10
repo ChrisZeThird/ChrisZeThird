@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChrisZeThird
-- 👀 I’m interested in Physics, Computer Science and Art
-- 🌱 I’m currently learning many things, it's hard to say
+- 👀 I’m studying fundamental Physics, but I also love Computer Science, Biology and Art
+- 🌱 I’m currently learning many things, and I love it
 
 
 <!---
