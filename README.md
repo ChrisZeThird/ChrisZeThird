@@ -1,3 +1,6 @@
-Master degree student in Fundamental Physics. My main points of interests are Quantum Mechanics, Mathematics and Computer Science. Naturally I'd like to ally those three topics in my future research. There is no good Physics without mathematics, there no good simulation without computer science.
+# About me
+Master degree student in Quantum Mechanics, I have a strong interest for the physic of cold atoms. It is few years ago that I started to actively code. Between quantum simulation, personnal side project and neuromorphic, I like to challenge myself and expend my field of skills. 
 
-**You can reach me out on my discord server if you have question about my work: https://discord.gg/eUuFBmyN5G**
+# Contact me
+
+You can reach me out on my discord server if you have question about my work: **https://discord.gg/eUuFBmyN5G**. You can also write me an email at **chriszethird.contact@gmail.com**.
