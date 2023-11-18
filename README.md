@@ -3,4 +3,4 @@ Master degree student in Quantum Mechanics, I have a strong interest for the phy
 
 # Contact me
 
-You can reach me out on my discord server if you have question about my work: **https://discord.gg/eUuFBmyN5G**. You can also write me an email at **chriszethird.contact@gmail.com**.
+You can reach me out on my [discord server](https://discord.gg/eUuFBmyN5G) if you have question about my work. You can also write me an email at **chriszethird.contact@gmail.com**.
