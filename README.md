@@ -1,5 +1,5 @@
 # About me
-Master degree student in Quantum Mechanics, I have a strong interest for the physic of cold atoms. It is few years ago that I started to actively code. Between quantum simulation, personnal side project and neuromorphic, I like to challenge myself and expend my field of skills. 
+Master degree student in Quantum Mechanics, I have a strong interest for the physic of cold atoms. It is few years ago that I started to actively code. Between quantum simulation, personnal side project and neuromorphic, I like to challenge myself and expend my knowledge in computer science. 
 
 # Contact me
 
